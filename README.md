@@ -30,7 +30,7 @@ This project demonstrates an end-to-end ML pipeline:
 
 ## 🔗 Live Demo
 
-Check out the live application here: [**Live Cloud App**](https://iris-classifier-app.streamlit.app/) _(Placeholder)_
+Check out the live application here: [**Live Cloud App**](https://iris-species-detection-htfimwuuv2ccqhaehfggfw.streamlit.app/) 
 
 ## �🛠️ Installation
 
